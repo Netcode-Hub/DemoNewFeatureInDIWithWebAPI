@@ -1,0 +1,6 @@
+@DemoNewFeatureInDIWithWebAPI_HostAddress = http://localhost:5078
+
+GET {{DemoNewFeatureInDIWithWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
