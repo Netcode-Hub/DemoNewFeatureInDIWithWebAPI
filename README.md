@@ -1,4 +1,6 @@
 # Say Goodbye to DI Hassles🙋‍♂️, Hello .NET 8 Enhancements👋! Master Multiple Service Implementations Like a Pro!🌟🔥
+![DI](https://github.com/Netcode-Hub/DemoNewFeatureInDIWithWebAPI/assets/110794348/649167d8-92de-424c-a6ec-50b30315a3d6)
+
 We're diving into the exciting new features introduced in .NET 8 that significantly enhance Dependency Injection (DI). If you've been following along, you know that DI is a cornerstone of building maintainable and testable applications. With .NET 8, Microsoft has introduced several enhancements that make DI even more flexible and easier to manage, especially when dealing with multiple service implementations in your Web API projects.
 
 # Follow Up
